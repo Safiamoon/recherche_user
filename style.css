@@ -1,0 +1,145 @@
+ 
+/* 
+  .produit {
+    max-width: 300px;
+    box-shadow: 0 0 15px 0px #8a8a8a;
+  }
+  
+  .produit > .header, .produit > .title {
+    padding: 0.1em 0.5em;
+  }
+  
+  .reference {
+    font-size: xx-small;
+    color: #888;
+  }
+  
+  .produit > .title {
+    font-weight: bold;
+  }
+  
+  .infos {
+    padding: 0.5em;
+    padding-top: 0px;
+  }
+  
+  .price {
+    margin: 0px;
+  }
+  
+  .description {
+    font-size: small;
+  }
+  
+  .promo {
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: xx-small;
+    padding: 2px 4px;
+    color: #FFF;
+    background-color: rgb(0, 143, 0);
+  } 
+  h1 {
+    padding: 10px;
+    background:rgb(167, 131, 131);
+    border: 2px solid black;
+  }
+  .nav{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+  }
+    /* padding: 0;
+    margin : 0;
+    text-align: center; */
+  /* }
+  .nav-item{
+    display: inline;
+    list-style: none;
+  
+  } */
+  /* .nav-link {
+      display: inline-block;
+    list-style: 0 30px;
+  } */
+  /* .nav{
+    display : flex;
+    flex-direction: row ;
+    justify-content: space-around;
+    align-items: center;
+  } */
+  /* label {
+    display: block;
+    font: 1rem 'Fira Sans', sans-serif;
+   
+  }
+  
+  input,
+  label {
+    margin: .4rem 0;
+  }
+   */ 
+   title {
+    padding: 400px;
+     
+    
+  }
+  body {
+    font-family: 'Open Sans', sans-serif;
+    box-sizing: border-box;
+    background-color: teal;
+  }
+  .nav{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    padding: -200px;
+  }
+  .nav-item{
+    display: inline;
+    list-style: none;
+  
+  }
+
+.nav-link {
+    display: inline-block;
+  list-style: 0 30px;
+  color : white;
+} 
+h1 {
+    margin: 0;
+  }
+.user_list{
+    margin-bottom: 2em;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-direction:  column;
+}
+.USER{
+    max-width: 300px;
+    box-shadow: 0 0 15px 0px #8a8a8a; 
+}
+.USER > .header,
+.USER > .name {
+  padding: 0.1em 0.5em;
+}
+  
+.id {
+    font-size: xx-small;
+    color: #888;
+  }
+  .USER > .name {
+    font-weight: bold;
+  }
+  
+  .infos {
+    padding: 0.5em;
+    padding-top: 0px;
+  }
+  .email {
+    font-size: small;
+  }
+  
