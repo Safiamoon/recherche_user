@@ -1,4 +1,4 @@
-                                                     #Recherche d'utilisateur en PHP#
+                                                 #Recherche d'utilisateur en PHP#
 
 Enoncé :
 
