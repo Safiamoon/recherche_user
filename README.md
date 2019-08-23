@@ -1,4 +1,5 @@
-#Recherche d'utilisateur en PHP#
+                                                     #Recherche d'utilisateur en PHP#
+
 Enoncé :
 
 _Créer une application qui permettra de chercher un utilisateur dans un tableau préalablement défini (définir une dizaine ou une quinzaine d'utilisateurs minimum)
